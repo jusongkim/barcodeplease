@@ -10,4 +10,6 @@
     <string name="menu_home">Barcode List_1</string>
     <string name="menu_gallery">Barcode List_2</string>
     <string name="menu_slideshow">Barcode List_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -146,7 +146,6 @@ public class MainActivity extends AppCompatActivity {
                 //1. 코드타입
                 //2. 코드정보 윗주석 안내조건 11자리+bla bla
                 //3. 내용, Tag정보, 저장위치
-                //4.. ㅅㄷㄴㅅ
                 Snackbar.make(v, "fab222222222222", Snackbar.LENGTH_LONG)
                         .setAction("Action", null)
                         .setAnchorView(R.id.fab).show();
